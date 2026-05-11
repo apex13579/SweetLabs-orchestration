@@ -18,6 +18,7 @@ This will be a great change for home automation. as my current smart devices are
 - announce door and window open and close.
 - if k and e are gone and motion is sensed play recording from jellyfin to have a good day and to do her school work
 - turn coffee pot on at 0630
+- turn coffee pot off at 0645
 ## shopping list
 - PHILIPS LED 60W A19 12-Pack Selectable White Multi-CCT 800 Lumen
 - THIRDREALITY Zigbee Smart Switch,Toggle/Rocker
@@ -25,7 +26,14 @@ This will be a great change for home automation. as my current smart devices are
 - RYSE SmartShade + BatteryPack
 - SwitchBot Smart Electric Motorized Blinds Kit - 3Pack
 - THIRDREALITY Smart Dual Plug
-- 
+- Noalto Reusable K Cups and Coffee Pods,Universal stainless steel k Cups
+- Amazon Basics Fast Electric Coffee Grinder
+- Newhouse Single Serve Coffee Maker compatible with K-cups
+- Nanoleaf Matter Smart Floor Lamp
+- Nanoleaf Lines
+- Nanoleaf 4D - TV LED Backlight with Camera
+- RISLG Floor Lamps for Living Room,Standing Lamp
+- SMLIGHT SLZB-06
 ## commands
 - good morning: tells temp, pollen, percipitation, air quality, and calender with dinner schedule
 - good night: turns off all bedroom lights except bed lights.
