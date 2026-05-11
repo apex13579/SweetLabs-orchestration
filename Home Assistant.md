@@ -17,7 +17,15 @@ This will be a great change for home automation. as my current smart devices are
 - bedlights off 5 mins after goodnight command
 - announce door and window open and close.
 - if k and e are gone and motion is sensed play recording from jellyfin to have a good day and to do her school work
+- turn coffee pot on at 0630
 ## shopping list
+- PHILIPS LED 60W A19 12-Pack Selectable White Multi-CCT 800 Lumen
+- THIRDREALITY Zigbee Smart Switch,Toggle/Rocker
+- THIRDREALITY Smart Color Night Light, Matter Over WiFi
+- RYSE SmartShade + BatteryPack
+- SwitchBot Smart Electric Motorized Blinds Kit - 3Pack
+- THIRDREALITY Smart Dual Plug
+- 
 ## commands
 - good morning: tells temp, pollen, percipitation, air quality, and calender with dinner schedule
 - good night: turns off all bedroom lights except bed lights.
