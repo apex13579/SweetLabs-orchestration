@@ -13,5 +13,13 @@ This will be a great change for home automation. as my current smart devices are
 - when k and e come within 1 mile turn on livingroom lights
 - at 2130 innitiate the "goodnight" scene
 - at 2200 turn off power to all tv
-- given command for streaming scene for any color lights. 
+- given command for streaming scene for any color lights.
+- bedlights off 5 mins after goodnight command
+- announce door and window open and close.
+- if k and e are gone and motion is sensed play recording from jellyfin to have a good day and to do her school work
 ## shopping list
+## commands
+- good morning: tells temp, pollen, percipitation, air quality, and calender with dinner schedule
+- good night: turns off all bedroom lights except bed lights.
+- announce dinner: announces dinner
+- 
