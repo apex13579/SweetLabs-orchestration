@@ -19,6 +19,20 @@ This will be a great change for home automation. as my current smart devices are
 - if k and e are gone and motion is sensed play recording from jellyfin to have a good day and to do her school work
 - turn coffee pot on at 0630
 - turn coffee pot off at 0645
+- send alerts via telegram/ntfy
+  - ~~power returns~~
+  - nut sees 10% power left which is evidence of a power outage.
+  - when and what is downloaded
+  - download requests
+  - ssh logins
+  - low disk space
+  - thermal warnings
+  - scan completions
+  - hit notifications
+  - cluster health
+  - proxmox task completion
+  - high priority alerts (water leaks, fire, etc)
+  - alert buttons
 ## shopping list
 - PHILIPS LED 60W A19 12-Pack Selectable White Multi-CCT 800 Lumen
 - THIRDREALITY Zigbee Smart Switch,Toggle/Rocker
