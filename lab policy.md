@@ -14,3 +14,4 @@ all new items are to be purchased with the longest warrenty fiscally possible at
 | power tools | ryobi |
 | hand tools | xool |
 | testing | tbd |
+| memory | patriot |
