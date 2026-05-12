@@ -11,3 +11,6 @@ all new items are to be purchased with the longest warrenty fiscally possible at
 | :--- | :--- |
 | compute | asus |
 | networking | unifi |
+| power tools | ryobi |
+| hand tools | xool |
+| testing | tbd |
