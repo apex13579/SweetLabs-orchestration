@@ -7,6 +7,6 @@ all new items are to be purchased with the longest warrenty fiscally possible at
 
 ## brands that i will align the lab with are the following
 
-|:---|:---|
-|compute|asus|
-|networking|unifi|
+| :--- | :--- |
+| compute | asus |
+| networking | unifi |
