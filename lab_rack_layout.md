@@ -4,11 +4,11 @@
 3. -
 4. -
 5. pull out work space
-6. -
-7. -
-8. -
-9. -
-10. -
+6. modem
+7. gateway
+8. patch panel
+9. aggregation switch
+10. patch panel
 11. -
 12. -
 13. -
@@ -19,7 +19,7 @@
 18. -
 19. -
 20. -
-21. -
+21. ups (networking and storage)
 22. -
-23. ups
+23. ups (compute)
 24. -
