@@ -1,9 +1,9 @@
 # lab layout plan
 1. monitor
-2. -
+2. kvm
 3. -
 4. -
-5. -
+5. pull out work space
 6. -
 7. -
 8. -
