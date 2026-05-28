@@ -14,9 +14,9 @@
 13. 4 raspi cluster
 14. patch panel
 15. nvr
-16. unas pro (7)
+16. unas pro (8)
 17. -
-18. unas pro (7)
+18. unas pro (8)
 19. -
 20. blank as thermal dam
 21. ups (networking and storage)
