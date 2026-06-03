@@ -31,6 +31,10 @@
   - wall mounted entertainment
 # appliances
 - [washer and dryer](https://www.mays-munroe.com/catalog/laundry-pairs?manufacturer=8815&dir=asc&order=price)
+- [hot water heater](https://www.navieninc.com/series/npn-e)
+- [range](https://www.geappliances.com/appliance/GE-Profile-30-Smart-Slide-In-Front-Control-Gas-Range-PGS930SELSS)
 - 
 # furnature
 # plan reqs
+- pot filler spout
+- 
