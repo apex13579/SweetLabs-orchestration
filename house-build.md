@@ -1,5 +1,5 @@
 # electrical
-- outlet (https://www.thirdreality.com/products/smart-wall-outlet-zw1)
+- [outlet] (https://www.thirdreality.com/products/smart-wall-outlet-zw1)
 # plumbing
 # hvac
 # insulation
