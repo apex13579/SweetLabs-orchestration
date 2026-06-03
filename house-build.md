@@ -11,6 +11,9 @@
 # plumbing
 - [leak detection](https://www.homedepot.com/p/SONOFF-Zigbee-Water-Leak-Sensor-with-Detection-Cable-for-Alarm-System-and-Smart-Home-Automation-SNZB-05P-C/700077280)
 - [water and gas shutoff](https://www.amazon.com/Reinforced-Mounting-SmartThings-Compatible-Motorized/dp/B0F1F9QBJJ/ref=sr_1_4?adgrpid=1345804635774350&dib=eyJ2IjoiMSJ9.oGcFMUCx7z_G9T555BnK-r4tLMBW8h2oKUO2660zlVgqqCyw-9bmALAm-wr56QrVJNQIm3yHEeAQfHUm06GuGiuW4X37R1g_Lze-V3FKr6mCQIWcubjkm0GB6jS_hOfPWKsgc2HzTPbOD6Tept6IJZc1kMX-7kxVobVo8WZC5c2igxhPW7oRF4DdTInc38uQi5Sv7Ums-4s_hyfxJAy8p47pA392ZOXOKCS9Gc8C5xw.1LlpJMxSKofc3CWUsJGjCNWYPihgdhIvb02RSMKr754&dib_tag=se&hvadid=84113064179533&hvbmt=bp&hvdev=c&hvlocphy=74101&hvnetw=o&hvqmt=p&hvtargid=kwd-84113841407665%3Aloc-190&hydadcr=18364_13708194&keywords=smart+water+valve+zigbee&mcid=1e4b0fd91f9636fc95ac74a9b7276fbe&msclkid=dfbe2e2d0a52149b6f87440d64acdf36&qid=1780510474&sr=8-4)
+- smurf tubing to each room for data
+- dual dedicated gircuits for lab and wall mounted entertainment
+- ct clamp to monitor energy draw
 # hvac
 - [thermostat](https://www.amazon.com/Honeywell-Home-Programmable-Customizable-Touchscreen/dp/B0GP37G6XN?psc=1&pd_rd_w=F1NRR&content-id=amzn1.sym.657ef1e8-aef1-4fea-8703-8be46e27259a&pf_rd_p=657ef1e8-aef1-4fea-8703-8be46e27259a&pf_rd_r=JBCBPK3560DMSD1ASV6H&pd_rd_wg=8dK2P&pd_rd_r=9ec2a06c-22d1-4377-a402-38c519611613&ref_=sspa_dk_detail_sbt_1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM=)
 # insulation
@@ -19,6 +22,10 @@
 - double drywall with green glue
 - clips/channel
 # framing
+- blocking for
+  - ceiling fans
+  - tv mounts
+  - wall mounted entertainment
 # appliances
 # furnature
 # plan reqs
