@@ -8,12 +8,15 @@
 - [3-way switch](https://www.amazon.com/Cooper-Wiring-White-Toggle-Switch/dp/B07NZ7BT2T/ref=sr_1_1?crid=2VW9OR24T1CS1&dib=eyJ2IjoiMSJ9.OcdrblWoYMffq-W6DgixsyZCGD1l-DhPBiYRSNzPW5Vc7xyHstVbUNKgG8jMQrM2L1OePs1K0mBSPFsdbwrP1OUqAPkaQP-9xKlQD1Lj3l6QdA5w10EQWi01JSY09cRjeUMS316t7WfYZ1OInoS7vLA3_G5G1mjsNX1y-tZCXW4h-A9Fn9sHNbanSj0-ZS6L43nTJvoIRHIfGhMRApevu7AQPH3NGgw4ry8NvRJhHPAm7kF2wgkgPe0xT4w5vqkncEvlrkWHXzsvYHWQrV-hCSr_dSa2CRCzz5absiyq8HA.ZfetijOmj0P9OlNM1Z8vfr_moNANpFkhZ_LF42uKj58&dib_tag=se&keywords=3-way+switch&qid=1780507086&s=industrial&sprefix=3-way+switch%2Caps%2C134&sr=1-1)
 - [bathroom fans](https://www.amazon.com/Delta-Products-Corporation-SIG80-110H-BreezSignature/dp/B01N4X2S1P/ref=sr_1_1?crid=3JE5YINRU3IIQ&dib=eyJ2IjoiMSJ9.INlbPYdgbxPQnrvFyY52sqSmjVjgjlLl53qyKlzvcGQkEkbTG2AgI8J5T379-M3M.B8lnPORTQYjMJ9tidC5PpehV5VlMmB2MiCkGGG9dslg&dib_tag=se&keywords=Delta%2BBreezSignature%2BSIG80&qid=1780507543&s=industrial&sprefix=delta%2Bbreezsignature%2Bsig80%2Caps%2C136&sr=1-1&th=1)
 - [temp & humidity sensors](https://www.amazon.com/Temperature-Humidity-Digital-Thermometer-Hygrometer/dp/B0DYDDKT4N/ref=sr_1_4?dib=eyJ2IjoiMSJ9.B9xaONs0Eev3Hkp2NOy2Jm9cYOkGFj1gj41BdFUW-oxJWZNmIYTQeGyTN-vRNNn8LRH_KkRF1WVpeGfWmpj81H8oCh4TEKNnlU6BxJ3t1qCNPY_IzBKimHu8ulR0J3oVofBAoeBL6Nfjqg85ItqEZGBiboqbEfkbHY0X9LndorPKDFwq30AwRu2-ifXUBB1hiQ8cVdJO3qZHpQRMedrTxqHzSgZm4mymzg4ZDnnXhLA.HZahD8-Gd9VLLBb2kSUO_-I4ad89jMADXlU9Dl3MpgQ&dib_tag=se&keywords=uya+Zigbee+USB+Temperature+and+Humidity+Sensor&qid=1780508461&sr=8-4)
-# plumbing
-- [leak detection](https://www.homedepot.com/p/SONOFF-Zigbee-Water-Leak-Sensor-with-Detection-Cable-for-Alarm-System-and-Smart-Home-Automation-SNZB-05P-C/700077280)
-- [water and gas shutoff](https://www.amazon.com/Reinforced-Mounting-SmartThings-Compatible-Motorized/dp/B0F1F9QBJJ/ref=sr_1_4?adgrpid=1345804635774350&dib=eyJ2IjoiMSJ9.oGcFMUCx7z_G9T555BnK-r4tLMBW8h2oKUO2660zlVgqqCyw-9bmALAm-wr56QrVJNQIm3yHEeAQfHUm06GuGiuW4X37R1g_Lze-V3FKr6mCQIWcubjkm0GB6jS_hOfPWKsgc2HzTPbOD6Tept6IJZc1kMX-7kxVobVo8WZC5c2igxhPW7oRF4DdTInc38uQi5Sv7Ums-4s_hyfxJAy8p47pA392ZOXOKCS9Gc8C5xw.1LlpJMxSKofc3CWUsJGjCNWYPihgdhIvb02RSMKr754&dib_tag=se&hvadid=84113064179533&hvbmt=bp&hvdev=c&hvlocphy=74101&hvnetw=o&hvqmt=p&hvtargid=kwd-84113841407665%3Aloc-190&hydadcr=18364_13708194&keywords=smart+water+valve+zigbee&mcid=1e4b0fd91f9636fc95ac74a9b7276fbe&msclkid=dfbe2e2d0a52149b6f87440d64acdf36&qid=1780510474&sr=8-4)
 - smurf tubing to each room for data
 - dual dedicated gircuits for lab and wall mounted entertainment
 - ct clamp to monitor energy draw
+- [vibration sensor](https://www.amazon.com/THIRDREALITY-Vibration-Adjustable-Sensitivity-SmartThings/dp/B0C9DP249C/ref=sr_1_1?dib=eyJ2IjoiMSJ9.4g865AnXuDSEPdYSI1ZLwDc89o5BAFrpfGDQ2uHndeSx_Qigh7IAGYm2VBpYeGHY446uMXAfjc7WfZLD75lWUOrF5Akj0JCXjaTZd1DxhyIEFL7WrWWLIBvTmVYVYzltfAcf8n32Z_XWU3La9xvMNzD2UEdYBvCXp_X5IPCInm685lDL5D2zl4tZohW4uQBdxF7gushl3Exqfj0Dm6_Z5BtLajEBcfWpswj9FmWSDgg.UXMFk49b5RdhEMBEz0UAXUb2pGLAr64URqcLQky8ZYw&dib_tag=se&keywords=third%2Breality%2Bvibration%2Bsensor&qid=1780519032&sr=8-1&th=1)
+- [aaa battery](https://www.amazon.com/Lenink-Battery-Supply-Adapter-Replace/dp/B0873Y5MQ5/ref=sr_1_4?crid=1KF0QX3WBPFBI&dib=eyJ2IjoiMSJ9.5LFaI-u-7-u4-QbmbfYsJadET1YIuZdm0-wlJZzi38E4534tQwWGLqmeGx-zHche4M8eLExoSRpQR3fL_4eyHEF6zQmaxJSbcH1x7GkI9epsttNQEi0QPdQbGQHo2uexJ-0uqQTbrhhl8k-wNZvjKWX9w0szm6Vw8llzCNdoINvGpji6j1mar8S6D8u2XOwfkTAgN7jt3eWwXiMJ1EWh5pTk5EdqzUuNVsBAIk-tkgM.WI84jcGAGjW-AFMGCib87odqMnvzcC0S5VsZJwtTCyc&dib_tag=se&keywords=aaa+battery+adapter&qid=1780519205&sprefix=aaa+battery+adapter%2Caps%2C144&sr=8-4)
+- 
+# plumbing
+- [leak detection](https://www.homedepot.com/p/SONOFF-Zigbee-Water-Leak-Sensor-with-Detection-Cable-for-Alarm-System-and-Smart-Home-Automation-SNZB-05P-C/700077280)
+- [water and gas shutoff](https://www.amazon.com/Reinforced-Mounting-SmartThings-Compatible-Motorized/dp/B0F1F9QBJJ/ref=sr_1_4?adgrpid=1345804635774350&dib=eyJ2IjoiMSJ9.oGcFMUCx7z_G9T555BnK-r4tLMBW8h2oKUO2660zlVgqqCyw-9bmALAm-wr56QrVJNQIm3yHEeAQfHUm06GuGiuW4X37R1g_Lze-V3FKr6mCQIWcubjkm0GB6jS_hOfPWKsgc2HzTPbOD6Tept6IJZc1kMX-7kxVobVo8WZC5c2igxhPW7oRF4DdTInc38uQi5Sv7Ums-4s_hyfxJAy8p47pA392ZOXOKCS9Gc8C5xw.1LlpJMxSKofc3CWUsJGjCNWYPihgdhIvb02RSMKr754&dib_tag=se&hvadid=84113064179533&hvbmt=bp&hvdev=c&hvlocphy=74101&hvnetw=o&hvqmt=p&hvtargid=kwd-84113841407665%3Aloc-190&hydadcr=18364_13708194&keywords=smart+water+valve+zigbee&mcid=1e4b0fd91f9636fc95ac74a9b7276fbe&msclkid=dfbe2e2d0a52149b6f87440d64acdf36&qid=1780510474&sr=8-4)
 # hvac
 - [thermostat](https://www.amazon.com/Honeywell-Home-Programmable-Customizable-Touchscreen/dp/B0GP37G6XN?psc=1&pd_rd_w=F1NRR&content-id=amzn1.sym.657ef1e8-aef1-4fea-8703-8be46e27259a&pf_rd_p=657ef1e8-aef1-4fea-8703-8be46e27259a&pf_rd_r=JBCBPK3560DMSD1ASV6H&pd_rd_wg=8dK2P&pd_rd_r=9ec2a06c-22d1-4377-a402-38c519611613&ref_=sspa_dk_detail_sbt_1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM=)
 # insulation
@@ -27,5 +30,7 @@
   - tv mounts
   - wall mounted entertainment
 # appliances
+- [washer and dryer](https://www.mays-munroe.com/catalog/laundry-pairs?manufacturer=8815&dir=asc&order=price)
+- 
 # furnature
 # plan reqs
