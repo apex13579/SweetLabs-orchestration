@@ -35,7 +35,7 @@
 - [washer and dryer](https://www.mays-munroe.com/product/speed-queen-white-top-load-washer-gas-dryer-laundry-pair-spqu-lau-tr3006wn-dr3004wg-2048009)
 - [hot water heater](https://www.navieninc.com/series/npn-e)
 - [range](https://www.geappliances.com/appliance/GE-Profile-30-Smart-Slide-In-Front-Control-Gas-Range-PGS930SELSS)
-- 
+- [garage door opener](https://www.amazon.com/LiftMaster-Security-Connected-Ultra-Quiet-Performance/dp/B0G1FWWCPT/ref=sr_1_1?adgrpid=1345804646407486&dib=eyJ2IjoiMSJ9.Y5KYHAtdaEyDEbd8oecW3y43bVM8ZtVdOuET9BwDm7wu9f0cIKbCwHklMo0ZqtkZXrEVZTgRaaaBGTQr31myYafem6mFPApgdLfi9siDnezl-ufYgY-WpU7oVjrvly9VwxIcm7kTVCE-78Efjl4xDzL88w4Jnhrq3vRh8jvQMJJCizqQ6Mq2CGmhzgOCDpxjBTWhHEJmSJiaDavfAqxp8kSTtJCoILMbPEVODGAQHtU.12I1Puk-K62E-yOvvTkmsZCknXE8Er8Xa7epRsxzeaY&dib_tag=se&hvadid=84113055498526&hvbmt=be&hvdev=c&hvlocphy=74101&hvnetw=o&hvqmt=e&hvtargid=kwd-84113850255414%3Aloc-190&hydadcr=5623_13189799&keywords=liftmaster+87504-267&mcid=9c2634d9caf435769441390967b407bc&msclkid=aa634ad466591df53d4e20f5e616f0f2&qid=1780580559&sr=8-1)
 # furnature
 - IKEA Starkvind
 - IKEA VINDSTYRKA
