@@ -1,5 +1,5 @@
 # software
-## windows tiny 11 (or some other more stable version)
+## windows tiny 11 (or Windows 11 LTSC)
 - gns3
 - steam
 - librewolf/brave
