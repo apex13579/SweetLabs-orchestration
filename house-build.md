@@ -8,12 +8,10 @@
 - [3-way switch](https://www.amazon.com/Cooper-Wiring-White-Toggle-Switch/dp/B07NZ7BT2T/ref=sr_1_1?crid=2VW9OR24T1CS1&dib=eyJ2IjoiMSJ9.OcdrblWoYMffq-W6DgixsyZCGD1l-DhPBiYRSNzPW5Vc7xyHstVbUNKgG8jMQrM2L1OePs1K0mBSPFsdbwrP1OUqAPkaQP-9xKlQD1Lj3l6QdA5w10EQWi01JSY09cRjeUMS316t7WfYZ1OInoS7vLA3_G5G1mjsNX1y-tZCXW4h-A9Fn9sHNbanSj0-ZS6L43nTJvoIRHIfGhMRApevu7AQPH3NGgw4ry8NvRJhHPAm7kF2wgkgPe0xT4w5vqkncEvlrkWHXzsvYHWQrV-hCSr_dSa2CRCzz5absiyq8HA.ZfetijOmj0P9OlNM1Z8vfr_moNANpFkhZ_LF42uKj58&dib_tag=se&keywords=3-way+switch&qid=1780507086&s=industrial&sprefix=3-way+switch%2Caps%2C134&sr=1-1)
 - [bathroom fans](https://www.amazon.com/Delta-Products-Corporation-SIG80-110H-BreezSignature/dp/B01N4X2S1P/ref=sr_1_1?crid=3JE5YINRU3IIQ&dib=eyJ2IjoiMSJ9.INlbPYdgbxPQnrvFyY52sqSmjVjgjlLl53qyKlzvcGQkEkbTG2AgI8J5T379-M3M.B8lnPORTQYjMJ9tidC5PpehV5VlMmB2MiCkGGG9dslg&dib_tag=se&keywords=Delta%2BBreezSignature%2BSIG80&qid=1780507543&s=industrial&sprefix=delta%2Bbreezsignature%2Bsig80%2Caps%2C136&sr=1-1&th=1)
 - [temp & humidity sensors](https://www.amazon.com/Temperature-Humidity-Digital-Thermometer-Hygrometer/dp/B0DYDDKT4N/ref=sr_1_4?dib=eyJ2IjoiMSJ9.B9xaONs0Eev3Hkp2NOy2Jm9cYOkGFj1gj41BdFUW-oxJWZNmIYTQeGyTN-vRNNn8LRH_KkRF1WVpeGfWmpj81H8oCh4TEKNnlU6BxJ3t1qCNPY_IzBKimHu8ulR0J3oVofBAoeBL6Nfjqg85ItqEZGBiboqbEfkbHY0X9LndorPKDFwq30AwRu2-ifXUBB1hiQ8cVdJO3qZHpQRMedrTxqHzSgZm4mymzg4ZDnnXhLA.HZahD8-Gd9VLLBb2kSUO_-I4ad89jMADXlU9Dl3MpgQ&dib_tag=se&keywords=uya+Zigbee+USB+Temperature+and+Humidity+Sensor&qid=1780508461&sr=8-4)
-- smurf tubing to each room for data
-- dual dedicated gircuits for lab and wall mounted entertainment
 - [ct clamp to monitor energy draw](https://www.amazon.com/Emporia-Vue-Home-Energy-Monitor/dp/B0C7B1LKDW/ref=sr_1_5?adgrpid=1342504315940587&dib=eyJ2IjoiMSJ9.DzaHL53EMRyvM-ip9yr17GPCDzt8JyCr81Omve9jl5zyGhbbh5blt75KrqegopLgB6Dj9ezg915F35C62JFmZgsoKgETJ6cGMM8rfqNLifs5WLR4PHG0Rv7CkAzRqZE-rLrgliEcrGzOiwm3cU_SEg1AkXSm0zP9hNieGhweT3cS21jo5D_Xkk5MmojBOXbOqPSTyGA-sCmmd_4o3e9f7UfQr_c82Wvm1XNKFYbCv2M.cM4xFsr-GlD97Yq-r9K_gdXLG-OLeYoukE1EyOwuJLY&dib_tag=se&hvadid=83906599271496&hvbmt=be&hvdev=c&hvlocphy=74101&hvnetw=o&hvqmt=e&hvtargid=kwd-83907718298802%3Aloc-190&hydadcr=2621_10463622&keywords=emporia%2Bvue%2B3&mcid=e8758d9fde6836ebad97d35bf4d6f8c1&msclkid=823b6627579315d827050c062e31d3a8&qid=1780578727&sr=8-5&th=1)
 - [vibration sensor](https://www.amazon.com/THIRDREALITY-Vibration-Adjustable-Sensitivity-SmartThings/dp/B0C9DP249C/ref=sr_1_1?dib=eyJ2IjoiMSJ9.4g865AnXuDSEPdYSI1ZLwDc89o5BAFrpfGDQ2uHndeSx_Qigh7IAGYm2VBpYeGHY446uMXAfjc7WfZLD75lWUOrF5Akj0JCXjaTZd1DxhyIEFL7WrWWLIBvTmVYVYzltfAcf8n32Z_XWU3La9xvMNzD2UEdYBvCXp_X5IPCInm685lDL5D2zl4tZohW4uQBdxF7gushl3Exqfj0Dm6_Z5BtLajEBcfWpswj9FmWSDgg.UXMFk49b5RdhEMBEz0UAXUb2pGLAr64URqcLQky8ZYw&dib_tag=se&keywords=third%2Breality%2Bvibration%2Bsensor&qid=1780519032&sr=8-1&th=1)
-- [aaa battery](https://www.amazon.com/Lenink-Battery-Supply-Adapter-Replace/dp/B0873Y5MQ5/ref=sr_1_4?crid=1KF0QX3WBPFBI&dib=eyJ2IjoiMSJ9.5LFaI-u-7-u4-QbmbfYsJadET1YIuZdm0-wlJZzi38E4534tQwWGLqmeGx-zHche4M8eLExoSRpQR3fL_4eyHEF6zQmaxJSbcH1x7GkI9epsttNQEi0QPdQbGQHo2uexJ-0uqQTbrhhl8k-wNZvjKWX9w0szm6Vw8llzCNdoINvGpji6j1mar8S6D8u2XOwfkTAgN7jt3eWwXiMJ1EWh5pTk5EdqzUuNVsBAIk-tkgM.WI84jcGAGjW-AFMGCib87odqMnvzcC0S5VsZJwtTCyc&dib_tag=se&keywords=aaa+battery+adapter&qid=1780519205&sprefix=aaa+battery+adapter%2Caps%2C144&sr=8-4)
-- [window sensor](https://www.amazon.com/SONOFF-SenseGuard-SNZB-04PR2-Monitoring-SmartThings/dp/B0GKFB66JZ/ref=sr_1_4?adgrpid=1342504261637435&dib=eyJ2IjoiMSJ9.9L0lae5wnVqToV9yhe7HRkEj06ZvPIaI5jHmjqTxl1YWXJV7x1IOz9lj1NxvjOKwF97qkH62oz9aGK4OL-norpt1Bc0yI7bH6KQ2_1wrFHAtlfKg7WOE5dP9DEwz2jFuqHaJ2o1jKg5gG9cgZVjvl3tOCYLEpBoAdfKDkmx7syBm05AqeLfrs0Q5ZeHrrWRXPcq0ZlzwVIthXRqfrto09u5GAV6IzFphwNZLJbh1-zQ.HXbEWyIhUJuWAJrRoAupTpSbWXY6JqZqYo3A0o2FwfM&dib_tag=se&hvadid=83906755417416&hvbmt=be&hvdev=c&hvlocphy=74101&hvnetw=o&hvqmt=e&hvtargid=kwd-83907712457465%3Aloc-190&hydadcr=25910_13486703&keywords=sonoff%2Bsnzb-04p&mcid=3bd8c6b2b853397ebfcaaf5a6a1a220b&qid=1780579300&sr=8-4&th=1)
+- [aaa battery adapter for zigbee sensors](https://www.amazon.com/Lenink-Battery-Supply-Adapter-Replace/dp/B0873Y5MQ5/ref=sr_1_4?crid=1KF0QX3WBPFBI&dib=eyJ2IjoiMSJ9.5LFaI-u-7-u4-QbmbfYsJadET1YIuZdm0-wlJZzi38E4534tQwWGLqmeGx-zHche4M8eLExoSRpQR3fL_4eyHEF6zQmaxJSbcH1x7GkI9epsttNQEi0QPdQbGQHo2uexJ-0uqQTbrhhl8k-wNZvjKWX9w0szm6Vw8llzCNdoINvGpji6j1mar8S6D8u2XOwfkTAgN7jt3eWwXiMJ1EWh5pTk5EdqzUuNVsBAIk-tkgM.WI84jcGAGjW-AFMGCib87odqMnvzcC0S5VsZJwtTCyc&dib_tag=se&keywords=aaa+battery+adapter&qid=1780519205&sprefix=aaa+battery+adapter%2Caps%2C144&sr=8-4)
+- [window and door sensor](https://www.amazon.com/SONOFF-SenseGuard-SNZB-04PR2-Monitoring-SmartThings/dp/B0GKFB66JZ/ref=sr_1_4?adgrpid=1342504261637435&dib=eyJ2IjoiMSJ9.9L0lae5wnVqToV9yhe7HRkEj06ZvPIaI5jHmjqTxl1YWXJV7x1IOz9lj1NxvjOKwF97qkH62oz9aGK4OL-norpt1Bc0yI7bH6KQ2_1wrFHAtlfKg7WOE5dP9DEwz2jFuqHaJ2o1jKg5gG9cgZVjvl3tOCYLEpBoAdfKDkmx7syBm05AqeLfrs0Q5ZeHrrWRXPcq0ZlzwVIthXRqfrto09u5GAV6IzFphwNZLJbh1-zQ.HXbEWyIhUJuWAJrRoAupTpSbWXY6JqZqYo3A0o2FwfM&dib_tag=se&hvadid=83906755417416&hvbmt=be&hvdev=c&hvlocphy=74101&hvnetw=o&hvqmt=e&hvtargid=kwd-83907712457465%3Aloc-190&hydadcr=25910_13486703&keywords=sonoff%2Bsnzb-04p&mcid=3bd8c6b2b853397ebfcaaf5a6a1a220b&qid=1780579300&sr=8-4&th=1)
 - 
 # plumbing
 - [leak detection](https://www.homedepot.com/p/SONOFF-Zigbee-Water-Leak-Sensor-with-Detection-Cable-for-Alarm-System-and-Smart-Home-Automation-SNZB-05P-C/700077280)
@@ -42,4 +40,34 @@
 - 
 # plan reqs
 - pot filler spout
-- 
+- all devices labeled with heatshrink labels
+- smurf tubing to each room for data
+- dual dedicated circuits for lab and wall mounted entertainment
+ - clock outlets behind tv
+ - J-box with smurf connector for wap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
