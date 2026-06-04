@@ -24,7 +24,7 @@
 # insulation
 - spray foam in attic and under the house
 - rockwool safe and sound in walls
-- double drywall with green glue
+- double drywall with Acoustic Caulk
 - [clips/channel](https://acousticalsolutions.com/product/resilient-sound-isolation-clip-rsic-1-isorsc1pk50)
 # framing
 - blocking for
@@ -52,6 +52,8 @@
 - putty pads on all j-boxes for sound isolation
 - all penetrations filled with fire foam
 - all main controls in single utility room for access to all mains
+- occupancy sensors turn on the recurculating pump in the how water heater when people are detected in the various bathrooms or kitchen
+- turns the pump off after 5 minutes regardless of motion.
 - 
 
 
