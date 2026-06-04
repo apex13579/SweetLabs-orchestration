@@ -39,6 +39,7 @@
   - tv mounts
   - wall mounted entertainment
   - bathroom grab bars
+  - range hood
   - 
 # appliances
 - [washer and dryer](https://www.mays-munroe.com/product/speed-queen-white-top-load-washer-gas-dryer-laundry-pair-spqu-lau-tr3006wn-dr3004wg-2048009)
@@ -68,6 +69,7 @@
 - solar to reduce electrical load
 - geothermal for hvac
 - all square d qo panel items
+- dedicated outlets dor co2 sensors
 - 
 
 
