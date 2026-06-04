@@ -15,6 +15,7 @@
 - [solar grid tie](https://offgridsource.com/products/eg4-flexboss21-all-in-one-hybrid-inverter-21kw-pv-input-48v-split-phase?variant=49897289613608&utm_medium=cpc&utm_source=bing&utm_campaign=Bing%20Shopping&country=US&msclkid=f933ddbe627b156155b6b79ffb5200cc)
 - [4 battery for grid tie](https://offgridsource.com/products/eg4-powerpro-wallmount-allweather-lithium-battery-48v-280ah-14-3kwh-lifepo4-all-weather-energy-storage-ul1973-ul9540a?_pos=27&_fid=169c89ad6&_ss=c)
 - [air quality sensor](https://www.amazon.com/SONOFF-SAWF-07P-Temperature-Notification-Matter-Compatible/dp/B0G2W4FVQF/ref=sr_1_17?crid=3601WX1VPDB2N&dib=eyJ2IjoiMSJ9.-B25W7-8eBuWesOYXt2KXqEOMrRNzlYCRZ-EytEbkkkH9jvqP8kJsXg_kIyYlZVSimbvzHdw21_UTW0A5W0Mbw.LI_TkYZTzLIRwFbyk9ZJiAJsMTqd-EF-T8WPprH8xck&dib_tag=se&keywords=zigbee+co2+sensor&qid=1780599375&sprefix=zigbee+co2+sensor%2Caps%2C138&xpid=3J0aGL9bHmmfq)
+- [range hood](https://www.homedepot.com/p/Zephyr-Tempest-II-30-in-650-CFM-Convertible-Wall-Mount-Range-Hood-with-LED-Light-in-Stainless-Steel-AK7500CS/316416563?mtc=SEM-CM-CML-GGL-D29A-029_015_COOKING-NA-NA-NA-DSA-5163653-NA-NA-NA-NBR-NA-NA-NA-MajorAppl&cm_mmc=SEM-CM-CML-GGL-D29A-029_015_COOKING-NA-NA-NA-DSA-5163653-NA-NA-NA-NBR-NA-NA-NA-MajorAppl-20931890556-161390430927-2269750773094&gclsrc=aw.ds&gad_source=1&gad_campaignid=20931890556&gclid=CjwKCAjwxITRBhBYEiwA6mZm7fPGBIAqD3jEKjdwj2WiiBEbsQVrpIzTPbKh1gcg5mjI2LMWPnuL1RoCNPUQAvD_BwE)
 - 
 # plumbing
 - [leak detection](https://www.homedepot.com/p/SONOFF-Zigbee-Water-Leak-Sensor-with-Detection-Cable-for-Alarm-System-and-Smart-Home-Automation-SNZB-05P-C/700077280)
@@ -29,7 +30,7 @@
 # insulation
 - spray foam in attic and under the house
 - rockwool safe and sound in walls
-- double drywall with Acoustic Caulk
+- double drywall with Acoustic Caulk and green glue
 - [clips/channel](https://acousticalsolutions.com/product/resilient-sound-isolation-clip-rsic-1-isorsc1pk50)
 # framing
 - blocking for
@@ -61,7 +62,7 @@
 - occupancy sensors turn on the recurculating pump in the how water heater when people are detected in the various bathrooms or kitchen
 - turns the pump off after 5 minutes regardless of motion.
 - lp conversion for appliances
-- 400A meter main with generator inlet and rv outlet
+- 200A meter main with generator inlet and rv outlet
 - solar to reduce electrical load
 - geothermal for hvac
 - 
