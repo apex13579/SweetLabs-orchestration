@@ -16,6 +16,7 @@
 - [4 battery for grid tie](https://offgridsource.com/products/eg4-powerpro-wallmount-allweather-lithium-battery-48v-280ah-14-3kwh-lifepo4-all-weather-energy-storage-ul1973-ul9540a?_pos=27&_fid=169c89ad6&_ss=c)
 - [air quality sensor](https://www.amazon.com/SONOFF-SAWF-07P-Temperature-Notification-Matter-Compatible/dp/B0G2W4FVQF/ref=sr_1_17?crid=3601WX1VPDB2N&dib=eyJ2IjoiMSJ9.-B25W7-8eBuWesOYXt2KXqEOMrRNzlYCRZ-EytEbkkkH9jvqP8kJsXg_kIyYlZVSimbvzHdw21_UTW0A5W0Mbw.LI_TkYZTzLIRwFbyk9ZJiAJsMTqd-EF-T8WPprH8xck&dib_tag=se&keywords=zigbee+co2+sensor&qid=1780599375&sprefix=zigbee+co2+sensor%2Caps%2C138&xpid=3J0aGL9bHmmfq)
 - [range hood](https://www.homedepot.com/p/Zephyr-Tempest-II-30-in-650-CFM-Convertible-Wall-Mount-Range-Hood-with-LED-Light-in-Stainless-Steel-AK7500CS/316416563?mtc=SEM-CM-CML-GGL-D29A-029_015_COOKING-NA-NA-NA-DSA-5163653-NA-NA-NA-NBR-NA-NA-NA-MajorAppl&cm_mmc=SEM-CM-CML-GGL-D29A-029_015_COOKING-NA-NA-NA-DSA-5163653-NA-NA-NA-NBR-NA-NA-NA-MajorAppl-20931890556-161390430927-2269750773094&gclsrc=aw.ds&gad_source=1&gad_campaignid=20931890556&gclid=CjwKCAjwxITRBhBYEiwA6mZm7fPGBIAqD3jEKjdwj2WiiBEbsQVrpIzTPbKh1gcg5mjI2LMWPnuL1RoCNPUQAvD_BwE)
+- [co2 sensor](https://www.amazon.com/SwitchBot-Quality-Monitor-Display-Bluetooth/dp/B0DLN46519/ref=sr_1_3_sspa?crid=1LDQGGH39F5PR&dib=eyJ2IjoiMSJ9.XTptQ747Imllz3y1CENnNFXjSL8uQaHyOjd6HGSpMHiXyI4bNAcBPThrsplTH7MPUe62j3CWgIDMmDg2JQPLCKWYL5AntYRZN7z0kzyUcOsS-IlkpzL9kqbzYEJcAAUHFLBbyz2hvGcq21E9UWfCMq9opfCQuYt9V6LtUrJgf1r6VknQl6ouqIIMgvfXFfZr5ZXgm2LHbONp9G0xaXECQJO1S96yOdaDdgyYHGFpYLA.r2gQSd7idctRz2wNdUQ4SE6i8yASjpkMTTHJHQjUtjQ&dib_tag=se&keywords=matter%2Bco2%2Bsensor&qid=1780606113&sprefix=matter%2Bco2%2B%2Caps%2C368&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 - 
 # plumbing
 - [leak detection](https://www.homedepot.com/p/SONOFF-Zigbee-Water-Leak-Sensor-with-Detection-Cable-for-Alarm-System-and-Smart-Home-Automation-SNZB-05P-C/700077280)
@@ -32,12 +33,14 @@
 - rockwool safe and sound in walls
 - double drywall with Acoustic Caulk and green glue
 - [clips/channel](https://acousticalsolutions.com/product/resilient-sound-isolation-clip-rsic-1-isorsc1pk50)
+- 
 # framing
 - blocking for
   - ceiling fans
   - tv mounts
   - wall mounted entertainment
   - bathroom grab bars
+  - 
 # appliances
 - [washer and dryer](https://www.mays-munroe.com/product/speed-queen-white-top-load-washer-gas-dryer-laundry-pair-spqu-lau-tr3006wn-dr3004wg-2048009)
 - [hot water heater](https://www.navieninc.com/series/npn-e)
@@ -46,7 +49,6 @@
 - 
 # furnature
 - IKEA Starkvind
-- IKEA VINDSTYRKA
 - 
 # plan reqs
 - pot filler spout
@@ -65,6 +67,7 @@
 - 200A meter main with generator inlet and rv outlet
 - solar to reduce electrical load
 - geothermal for hvac
+- all square d qo panel items
 - 
 
 
