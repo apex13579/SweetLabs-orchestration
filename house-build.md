@@ -32,7 +32,7 @@
   - wall mounted entertainment
   - bathroom grab bars
 # appliances
-- [washer and dryer](https://www.mays-munroe.com/catalog/laundry-pairs?manufacturer=8815&dir=asc&order=price)
+- [washer and dryer](https://www.mays-munroe.com/product/speed-queen-white-top-load-washer-gas-dryer-laundry-pair-spqu-lau-tr3006wn-dr3004wg-2048009)
 - [hot water heater](https://www.navieninc.com/series/npn-e)
 - [range](https://www.geappliances.com/appliance/GE-Profile-30-Smart-Slide-In-Front-Control-Gas-Range-PGS930SELSS)
 - 
