@@ -1,6 +1,5 @@
 # software
 ## windows tiny 11 (or Windows 11 LTSC)
-- gns3
 - steam
 - librewolf/brave
   ### bookmarks
@@ -12,6 +11,7 @@
   - monday.com
   - wco stream
   - discord
+  - gns3
   - other self hosted services
 - joplin
 - logitech software
