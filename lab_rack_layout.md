@@ -8,16 +8,16 @@
 7. cloud gateway fiber
 8. patch panel
 9. aggregation switch
-10. patch panel
-11. 3 nuc cluster for compute
-12. 3 nuc cluster for ai
-13. 4 raspi cluster
-14. patch panel
-15. nvr
-16. unas pro (8)
+10. patch panel    
+11. 4 raspi cluster
+12. nvr
+13. unas pro (4)
+14. unas pro (4)
+15. 4u vm pc
+16. -
 17. -
-18. unas pro (8)
-19. -
+18. -
+19. 
 20. blank as thermal dam
 21. ups (networking and storage)
 22. -
