@@ -1,25 +1,25 @@
 # lab layout plan
 1. [monitor](https://www.bhphotovideo.com/c/product/1709229-REG/feelworld_sc173_hd_56_17_3_1ru_pull_out.html?ap=y&smp=Y&srsltid=AfmBOoqW5Jk19oz0UYO_recIgGDaei2X5YZSpm4CJEtRBUGsAWPPPyKutHU)
-2. kvm
-3. drawer (excess cables)
-4. drawer (keyboard)
-5. pull out work space
-6. modem
-7. cloud gateway fiber
-8. patch panel
-9. aggregation switch
-10. patch panel    
-11. 4 raspi cluster
-12. nvr
-13. unas pro (4)
-14. unas pro (4)
+2. [kvm](https://www.amazon.com/MT-VIKI-Port-Switch-Cables-Rackmout/dp/B08ZMPSQBM/ref=sr_1_23_sspa?crid=DWLVRS3B7AEY&dib=eyJ2IjoiMSJ9.kzIiFCNv0CgEy54ac57hsjx0fC_lGI7vdJB65bu9vDECc-lVDpMEGWuc1DhYUC0gN-46NBk6tNHHdzMqLM8eau6pyPdReC4D1SPpaCEp0G6XdXtOcZBHeybpR5on0SIELuZFWQNX-kkyhctAK6rpJJK1rmbDPS4Yr970xdjTFRY_eaFXNDh-uHpQ2MOrAASWfSJpkGDnBaQLlvCHDIoqlQ.BW8Svctl7F4rYRnwAgz4i0ZUd42257CTICo4rJJ5jVM&dib_tag=se&keywords=kvm&qid=1781203995&sprefix=kvm%2Caps%2C146&xpid=VMiNHAdMXjWhU&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1)
+3. [drawer (excess cables)](https://www.amazon.com/QiaoYoubang-Server-Cabinet-Lockable-Drawer/dp/B0F4VLWXZK/ref=sr_1_5?crid=3V5Z2FHCMA032&dib=eyJ2IjoiMSJ9.MzwCYM_ufLyWBFWk8_h__6F6BIv1IXMQCK-jxAUfUSYmYsj55_esKPErttK2MKhILPYoelT2kbKYZP3yRCudGSooJyNGY4E-nH9L-D07ntMTQDF9mZAH_IluRW6rS7hMSXs-FYxW-Cnp0_6lVx2fk1pGA3KxKsKBh7fKAx-2Kzjx3u2OaqZqbbiTQuYXhjCW_d2jzoTN9iBhugRN38nbcuMoPl0nT9gkscDLlegXj1sizlu_18I_6N3-MR58nz2RTJhCO6mbVbi5uS-Ua1_fdyfA0oJs6tQfM-h6tuJ9mJ8.snZSK70che-AwVMhch9pMJEqtFBNSFW8jmnpc7NVWd4&dib_tag=se&keywords=1u%2Bpull%2Bout%2Bdrawer&qid=1781204426&s=electronics&sprefix=1u%2Bpull%2Bout%2Bdrawer%2Caps%2C119&sr=1-5&th=1)
+4. [drawer (keyboard)](https://www.amazon.com/QiaoYoubang-Server-Cabinet-Lockable-Drawer/dp/B0F4VLWXZK/ref=sr_1_5?crid=3V5Z2FHCMA032&dib=eyJ2IjoiMSJ9.MzwCYM_ufLyWBFWk8_h__6F6BIv1IXMQCK-jxAUfUSYmYsj55_esKPErttK2MKhILPYoelT2kbKYZP3yRCudGSooJyNGY4E-nH9L-D07ntMTQDF9mZAH_IluRW6rS7hMSXs-FYxW-Cnp0_6lVx2fk1pGA3KxKsKBh7fKAx-2Kzjx3u2OaqZqbbiTQuYXhjCW_d2jzoTN9iBhugRN38nbcuMoPl0nT9gkscDLlegXj1sizlu_18I_6N3-MR58nz2RTJhCO6mbVbi5uS-Ua1_fdyfA0oJs6tQfM-h6tuJ9mJ8.snZSK70che-AwVMhch9pMJEqtFBNSFW8jmnpc7NVWd4&dib_tag=se&keywords=1u%2Bpull%2Bout%2Bdrawer&qid=1781204426&s=electronics&sprefix=1u%2Bpull%2Bout%2Bdrawer%2Caps%2C119&sr=1-5&th=1)
+5. [pull out work space](https://www.amazon.com/Electriduct-Keyboard-Tray-Extendable-Universal/dp/B0FNZ681HG/ref=sr_1_30?crid=3CD7SZKPNF6A9&dib=eyJ2IjoiMSJ9.em_ztcbssIjnfOkL0LY7ZwwLR2WdsIBK-1iJFeuVJMD1fFWjm-mxoJJnUyIjmnC6dwHEpJgVdzJe3cz294ZRBhqrw5SXoTrsJBW_j2SuBl2skhhW-Tb7snpbNamXToBfGhMhsnnJ6oNpuj6vN4eIjrUzfNE-01TUl0B-43T1ZalE7hYft541hW5cQ7G7DUK7qrAOPU3LHN8jeo0zzaJ7EfgkdEpqZKuTrPtTasTmpKrFSBUcwg8sFCjd2lExQQEWxeaNQtay57tvM9PMq74mZcaMePTvVA3bQu5wYEkgSmw.phpRllvlrfnuAKy83mjV37Xsnl_z-e--BEZRqIJ84pU&dib_tag=se&keywords=1u+pull+out+tray&qid=1781204356&s=electronics&sprefix=1u+pull+out+tray%2Caps%2C134&xpid=7sjsdwc22HSNZ)
+6. [modem](https://www.bhphotovideo.com/c/product/1877036-REG/ubiquiti_networks_uci_multi_gigabit_rack_mountable_cable_modem.html)
+7. [cloud gateway fiber](https://www.bhphotovideo.com/c/product/1884945-REG/ubiquiti_networks_ucg_fiber_cloud_gateway_fiber.html)
+8. [patch panel](https://www.bhphotovideo.com/c/product/1685141-REG/trendnet_tc_kp24_24_port_blank_keystone_1u.html)
+9. [aggregation switch](https://www.bhphotovideo.com/c/product/1636112-REG/ubiquiti_networks_usw_pro_aggregation_unifi_switch_pro_aggregation.html)
+10. [patch panel](https://www.bhphotovideo.com/c/product/1685141-REG/trendnet_tc_kp24_24_port_blank_keystone_1u.html)    
+11. [4 raspi cluster](https://www.amazon.com/UCTRONICS-Heavy-Duty-Raspberry-Rackmount-Supports/dp/B0G1BRKKZ2/ref=sr_1_8?crid=2RAI63VIDRH9J&dib=eyJ2IjoiMSJ9.3gYEa5pApTQdjmMX8a8mRRTPytNG43rpvpUVCNlHbqLAq3NRvklr41okViinnrZXAJqoEOitaSSkXyTVKBJGFws58gPdmPm003JMvm0rIsheLpWfPJYPi68VLEtiQ9VpMj_HiEUgtrf46JQfdHKqYRUvxSo2xQLV1YJ-21pT7em54UbV3NpqIH2mxaNJqKxxo5GcLKa15g-mNeZQFuYLV0seo4NtTot3L4gqPgYl91g.Wj862AgGiDMmH1Tmykh_eRqvA_Fg-FdScHSvt5e9LtM&dib_tag=se&keywords=1u+raspberry+pi+rack+mount&qid=1781204879&sprefix=1u+raspberry+pi%2Caps%2C152&sr=8-8)
+12. [nvr](https://www.bhphotovideo.com/c/product/1574869-REG/ubiquiti_networks_unvr_unifi_protect_network_video.html)
+13. [unas pro (4)](https://www.bhphotovideo.com/c/product/1957208-REG/ubiquiti_unas_pro_4_unifi_network_attached_storage.html)
+14. [unas pro (4)](https://www.bhphotovideo.com/c/product/1957208-REG/ubiquiti_unas_pro_4_unifi_network_attached_storage.html)
 15. 4u vm pc
 16. -
 17. -
 18. -
 19. 2u ai pc
 20. -
-21. ups (networking and storage)
+21. [ups (networking and storage)](https://www.amazon.com/Tripp-Lite-Battery-Rack-Mount-SMART1500LCD/dp/B000DZRY9C/ref=sr_1_4?crid=3NK70ZN29TUF8&dib=eyJ2IjoiMSJ9.9sHw8RdYfyk5lEkrFxd2_t-D7MCwUpzfG0t7-AGt8p9Y1pTVqE6OOsdvu_xrAVeIpF4oPAx5Fz9tojGAqM-Y7pebEaBgoIVLE3qzHYiTKt7qwuje6vHxk_EECoXZewqD3q4IbOabOkCRuL7t_LeppTgRkXlKjMc8obj-Q21AuB5A9feRcp8ZrgQoIDQPuoWL_Q_Vf3UebTChisPlJ02esiN6qfWeT13DOTbaedYgmJg.VcLgoNb53CLYYI7aeEXYe33E9vbjc3_0eRCAJk8ZcJI&dib_tag=se&keywords=2u%2Bups&qid=1781204944&sprefix=2u%2Bups%2Caps%2C141&sr=8-4&th=1)
 22. -
-23. ups (compute)
+23. [ups (compute)](https://www.amazon.com/Tripp-Lite-Battery-Rack-Mount-SMART1500LCD/dp/B000DZRY9C/ref=sr_1_4?crid=3NK70ZN29TUF8&dib=eyJ2IjoiMSJ9.9sHw8RdYfyk5lEkrFxd2_t-D7MCwUpzfG0t7-AGt8p9Y1pTVqE6OOsdvu_xrAVeIpF4oPAx5Fz9tojGAqM-Y7pebEaBgoIVLE3qzHYiTKt7qwuje6vHxk_EECoXZewqD3q4IbOabOkCRuL7t_LeppTgRkXlKjMc8obj-Q21AuB5A9feRcp8ZrgQoIDQPuoWL_Q_Vf3UebTChisPlJ02esiN6qfWeT13DOTbaedYgmJg.VcLgoNb53CLYYI7aeEXYe33E9vbjc3_0eRCAJk8ZcJI&dib_tag=se&keywords=2u%2Bups&qid=1781204944&sprefix=2u%2Bups%2Caps%2C141&sr=8-4&th=1)
 24. -
