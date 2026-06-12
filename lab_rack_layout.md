@@ -53,6 +53,11 @@
   -  make 2 more 4u vm pc for high availability = 35/42
   -  move the poe switches into the rack = 37/42
   -  three additional patch panels = 40/42
+  -  additional 2u nas = 42/42
 
 [media rack](https://store.ui.com/us/en/category/accessories-rack-mount/collections/12u-rack-cabinets/products/uacc-rack-12u-wall-450-g)
+
+- ps 2/12
+- xbox 4/12
+- 
 
