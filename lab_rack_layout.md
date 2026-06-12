@@ -48,9 +48,11 @@
 [rack upgrade](https://store.ui.com/us/en/category/accessories-rack-mount/collections/42u-rack-cabinets/products/uacc-rack-42u-800-g?variant=uacc-rack-42u-800-g)
 
 - In new rack when upgrading
-  -  double size of nas = 4/42
-  -  move ai pc to a 4u case with multiple gpu = 8/42
-  -  
+  -  double size of nas = 26/42
+  -  move ai pc to a 4u case with multiple gpu = 27/42
+  -  make 2 more 4u vm pc for high availability = 35/42
+  -  move the poe switches into the rack = 37/42
+  -  three additional patch panels = 40/42
 
 [media rack](https://store.ui.com/us/en/category/accessories-rack-mount/collections/12u-rack-cabinets/products/uacc-rack-12u-wall-450-g)
 
