@@ -10,22 +10,24 @@
 9. [aggregation switch](https://store.ui.com/us/en/category/switching-aggregation/products/usw-pro-aggregation)
 10. [patch panel](https://www.bhphotovideo.com/c/product/1685141-REG/trendnet_tc_kp24_24_port_blank_keystone_1u.html)    
 11. [4 raspi cluster](https://www.amazon.com/UCTRONICS-Heavy-Duty-Raspberry-Rackmount-Supports/dp/B0G1BRKKZ2/ref=sr_1_8?crid=2RAI63VIDRH9J&dib=eyJ2IjoiMSJ9.3gYEa5pApTQdjmMX8a8mRRTPytNG43rpvpUVCNlHbqLAq3NRvklr41okViinnrZXAJqoEOitaSSkXyTVKBJGFws58gPdmPm003JMvm0rIsheLpWfPJYPi68VLEtiQ9VpMj_HiEUgtrf46JQfdHKqYRUvxSo2xQLV1YJ-21pT7em54UbV3NpqIH2mxaNJqKxxo5GcLKa15g-mNeZQFuYLV0seo4NtTot3L4gqPgYl91g.Wj862AgGiDMmH1Tmykh_eRqvA_Fg-FdScHSvt5e9LtM&dib_tag=se&keywords=1u+raspberry+pi+rack+mount&qid=1781204879&sprefix=1u+raspberry+pi%2Caps%2C152&sr=8-8)
-12. [unas pro (4)](https://www.bhphotovideo.com/c/product/1957208-REG/ubiquiti_unas_pro_4_unifi_network_attached_storage.html)
-13. [unas pro (4)](https://www.bhphotovideo.com/c/product/1957208-REG/ubiquiti_unas_pro_4_unifi_network_attached_storage.html)
-14. 4u vm pc
-15. -
+12. [unas pro (4)](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
+13. [unas pro (4)](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
+14. [ai key cluster](https://store.ui.com/us/en/category/accessories-rack-mount/products/uacc-ai-key-rm)
+15. 4u vm pc
 16. -
 17. -
-18. 2u ai pc
-19. -
+18. -
+19. 2u ai pc
 20. -
-21. [ups (networking and storage)](https://www.amazon.com/Tripp-Lite-Battery-Rack-Mount-SMART1500LCD/dp/B000DZRY9C/ref=sr_1_4?crid=3NK70ZN29TUF8&dib=eyJ2IjoiMSJ9.9sHw8RdYfyk5lEkrFxd2_t-D7MCwUpzfG0t7-AGt8p9Y1pTVqE6OOsdvu_xrAVeIpF4oPAx5Fz9tojGAqM-Y7pebEaBgoIVLE3qzHYiTKt7qwuje6vHxk_EECoXZewqD3q4IbOabOkCRuL7t_LeppTgRkXlKjMc8obj-Q21AuB5A9feRcp8ZrgQoIDQPuoWL_Q_Vf3UebTChisPlJ02esiN6qfWeT13DOTbaedYgmJg.VcLgoNb53CLYYI7aeEXYe33E9vbjc3_0eRCAJk8ZcJI&dib_tag=se&keywords=2u%2Bups&qid=1781204944&sprefix=2u%2Bups%2Caps%2C141&sr=8-4&th=1)
+21. [ups (networking and storage)](https://store.ui.com/us/en/category/integrations-power-tech/collections/unifi-power-tech-ups/products/ups-2u-us)
 22. -
-23. [ups (compute)](https://www.amazon.com/Tripp-Lite-Battery-Rack-Mount-SMART1500LCD/dp/B000DZRY9C/ref=sr_1_4?crid=3NK70ZN29TUF8&dib=eyJ2IjoiMSJ9.9sHw8RdYfyk5lEkrFxd2_t-D7MCwUpzfG0t7-AGt8p9Y1pTVqE6OOsdvu_xrAVeIpF4oPAx5Fz9tojGAqM-Y7pebEaBgoIVLE3qzHYiTKt7qwuje6vHxk_EECoXZewqD3q4IbOabOkCRuL7t_LeppTgRkXlKjMc8obj-Q21AuB5A9feRcp8ZrgQoIDQPuoWL_Q_Vf3UebTChisPlJ02esiN6qfWeT13DOTbaedYgmJg.VcLgoNb53CLYYI7aeEXYe33E9vbjc3_0eRCAJk8ZcJI&dib_tag=se&keywords=2u%2Bups&qid=1781204944&sprefix=2u%2Bups%2Caps%2C141&sr=8-4&th=1)
+23. [ups (compute)](https://store.ui.com/us/en/category/integrations-power-tech/collections/unifi-power-tech-ups/products/ups-2u-us)
 24. -
 
 
 [sub switch](https://store.ui.com/us/en/category/switching-utility/products/usw-flex-2-5g-8)
 [poe switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-xg-24-poe)
 [wap](https://store.ui.com/us/en/category/wifi-flagship/products/u7-pro-xg?variant=u7-pro-xg-us)
-
+[failover wan](https://store.ui.com/us/en/category/internet-solutions/products/u5g-us)
+[sfp+ modules fiber](https://store.ui.com/us/en/category/accessories-modules-fiber/collections/accessories-pro-multi-mode-optical-fiber/products/10-gbps-multi-mode-optical-module?variant=uacc-om-mm-10g-d)
+[sfp+ module rj45](https://store.ui.com/us/en/category/accessories-modules-fiber/collections/accessories-pro-direct-attach-cables/products/uacc-cm-rj45-mg?variant=uacc-cm-rj45-mg)
