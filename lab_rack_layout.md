@@ -40,3 +40,6 @@
 [superlink gateway](https://store.ui.com/us/en/category/cameras-superlink-sensors/collections/superlink-gateway/products/usl-gateway?variant=usl-gateway-us)
 [zigbee antenna](https://www.amazon.com/SMLIGHT-SLZB-06M-Ethernet-Zigbee2MQTT-Assistant/dp/B0CLCGV1RZ/ref=sr_1_9?crid=PJRU88V8TASL&dib=eyJ2IjoiMSJ9.MGAH_V8Lm634d8E5zQWYOCThDai2RHkBZeU7ptOyDkB2Ki6F5y7dx-C13_Qr7prbBE0CeGE6dpp7f6BCSa1XQiUB1-sSIwUS0w_W3wZ5JY1Bn3mnYSFa2QhlpYuodcl-18NarB2qTzbFTTkJd5sY0ZQ2DMUqW-SlEFqgbfYTGzoTFimF88XFK4zqNVrHuqNSQY6SsAUrQkh3YVKRDZuTbTUIxXwLLW8lpDoxslh2UAE.W6lpl2qxrFtyVxmEbMU1AictG4NGQbi5jQci-Jy-LX0&dib_tag=se&keywords=zigbee%2Bantenna&qid=1781294037&sprefix=zigbee%2Bantenna%2Caps%2C138&sr=8-9&th=1)
 [air quality sensor](https://store.ui.com/us/en/category/cameras-superlink-sensors/products/up-airquality)
+[bullet cameras](https://store.ui.com/us/en/category/cameras-bullet/products/uvc-g5-bullet)
+[ptz cameras](https://store.ui.com/us/en/category/cameras-ptz/products/uvc-g5-ptz)
+[dome camera](https://store.ui.com/us/en/category/cameras-dome-turret/products/uvc-g5-dome)
