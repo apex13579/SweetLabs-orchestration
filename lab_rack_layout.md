@@ -36,11 +36,10 @@
 [travel router](https://www.amazon.com/GL-iNet-GL-A1300-Encrypted-Tethering-Pocket-Sized/dp/B0B4ZSR2PX/ref=sr_1_2?crid=3D9JVBRBIPNVJ&dib=eyJ2IjoiMSJ9.15rx9WopWzK16jbLTQw4JCyAwrMadjm6diRc0Jl8KWQ4QcvvRONCtBqUzwUHzspambTrOAFfH_ltzGhBQKoGN5CHqdCbsfA0Qn3QpyJMS1wYj7p5zqv8nqCE3P4BJSUTRRMmaWy50602PPanIaCKtNT47RgtFCyNZ0RPLQGrMhJa0fmNbBV0fvK9g3rMGJHU2aSoi4R_r9OV52WeJOS98Aa-qYKiUktYoflGtp9nI9AA6syOl3erzyn6S9oP48Li99TkORdoEiyvI5QceupOML9GUpqBhvg2QsOu8TDauo0.f3poFlsIFwY4CziW4E7H6dxnC9l0xq03ZF79IxSz7jk&dib_tag=se&keywords=GL-SFT1200&qid=1781545566&s=electronics&sprefix=gl-sft1200%2Caps%2C192&sr=1-2&th=1)
 [adapter](https://www.amazon.com/dp/B0C33GSJXH/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B0C33GSJXH&pd_rd_w=BaWWy&content-id=amzn1.sym.6c90551e-661c-4342-b5cf-431d897dc288&pf_rd_p=6c90551e-661c-4342-b5cf-431d897dc288&pf_rd_r=1MRTQXAM5V8C819YH2W4&pd_rd_wg=7Z3yj&pd_rd_r=ab8f3751-a251-497c-bdf0-ab82d875114f&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw)
 [zigbee antenna](https://www.amazon.com/SMLIGHT-SLZB-06M-Ethernet-Zigbee2MQTT-Assistant/dp/B0CLCGV1RZ/ref=sr_1_9?crid=PJRU88V8TASL&dib=eyJ2IjoiMSJ9.MGAH_V8Lm634d8E5zQWYOCThDai2RHkBZeU7ptOyDkB2Ki6F5y7dx-C13_Qr7prbBE0CeGE6dpp7f6BCSa1XQiUB1-sSIwUS0w_W3wZ5JY1Bn3mnYSFa2QhlpYuodcl-18NarB2qTzbFTTkJd5sY0ZQ2DMUqW-SlEFqgbfYTGzoTFimF88XFK4zqNVrHuqNSQY6SsAUrQkh3YVKRDZuTbTUIxXwLLW8lpDoxslh2UAE.W6lpl2qxrFtyVxmEbMU1AictG4NGQbi5jQci-Jy-LX0&dib_tag=se&keywords=zigbee%2Bantenna&qid=1781294037&sprefix=zigbee%2Bantenna%2Caps%2C138&sr=8-9&th=1)
-[air quality sensor](https://store.ui.com/us/en/category/cameras-superlink-sensors/products/up-airquality)
 [bullet cameras](https://store.ui.com/us/en/category/cameras-bullet/products/uvc-g5-bullet)
 [ptz cameras](https://store.ui.com/us/en/category/cameras-ptz/products/uvc-g5-ptz)
 [dome camera](https://store.ui.com/us/en/category/cameras-dome-turret/products/uvc-g5-dome)
-[phone](https://store.ui.com/us/en/category/managed-voip/collections/unifi-new-integrations-phone-compact/products/utp-touch)
+[tablet](https://store.ui.com/us/en/category/managed-voip/collections/unifi-new-integrations-phone-compact/products/utp-touch)
 
 [rack upgrade](https://store.ui.com/us/en/category/accessories-rack-mount/collections/42u-rack-cabinets/products/uacc-rack-42u-800-g?variant=uacc-rack-42u-800-g)
 
