@@ -1,6 +1,6 @@
 - [ ] spin down old vm
 - [ ] delete old vm
-- [ ] inniatiate lxc first
+- [ ] inniatiate and configure lxc first
 - [ ] inniatiate vm one at a time to completion
 - [ ] assign vlans as dictated
-- [ ] 
+- [ ] configure nas and softwares
