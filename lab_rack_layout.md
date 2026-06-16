@@ -42,3 +42,10 @@
 [dome camera](https://store.ui.com/us/en/category/cameras-compact/products/uvc-g5-flex)
 [tablet](https://www.amazon.com/NEWISION-Android-Tablets-1024x600-Display/dp/B0FYV9RTH4/ref=sr_1_73?crid=1GEAYHEJ60AQN&dib=eyJ2IjoiMSJ9.OfPvVFaEPjeYyVlhMtf5S43ZCROD9DiobxThFG7fJx1A5GVQ0JwWA3faCiEYxvQCoFzOyIlo3jh4z9f69Js3Ow.Qip8NpkVZ_hnfSBgSNiXdX8QYiY3K7KJYvJOAzl9JOo&dib_tag=se&keywords=android%2Btablet&qid=1781550614&s=electronics&sprefix=android%2Btablet%2Caps%2C155&xpid=Ln6ymTXkIDJ4d&th=1)
 [keystone coupler](https://www.amazon.com/VCE-Keystone-Coupler-25-Pack-Ethernet/dp/B0FH4J58P2/ref=sr_1_4?crid=12OJ9L3IYDLFF&dib=eyJ2IjoiMSJ9.LCvNrlCjLYkee_24sp3l76NrnDmrDB-2LURKjYtWa9srBke285yP-cgYoalFZSOtvnC1H5Y5p6VgtjxgvBQKAcEGCXNgUlMOXq2V_bOd2cXiu70jCeBpckSV1ajK4HJvqK7RZ33R3UwOvevXsfO6vSuDaTwkkQHN9XhJ5m5Rez4GggWtc-ihdYK5f8EYseWgjghcJkuw1tJDZBWtB12nfzrtP6t4mhuYdh9HObZn-hQ.CTr6MoFOHka9ZQ_E7OQYxxt1NSc1YEW3QRBIhJOJWrE&dib_tag=se&keywords=cat6a%2Bkeystone%2Bcoupler&qid=1781636854&sprefix=cat6a%2Bkeystone%2Bcoupler%2Caps%2C128&sr=8-4&th=1)
+[roll ethernet](https://www.amazon.com/NewYork-Cables-Cat6a-Cable-1000ft/dp/B08S4CMF2S/ref=sxin_16_pa_sp_search_thematic-asin_sspa?content-id=amzn1.sym.9875ac36-cbb1-4063-9736-e18b308f179e%3Aamzn1.sym.9875ac36-cbb1-4063-9736-e18b308f179e&crid=2DBQ965T98P1J&cv_ct_cx=cat6a%2Bethernet%2Bcable&keywords=cat6a%2Bethernet%2Bcable&pd_rd_i=B09SK5QSG3&pd_rd_r=fe489857-474e-406e-ac17-1b2c08e638a5&pd_rd_w=8MDvo&pd_rd_wg=5nIER&pf_rd_p=9875ac36-cbb1-4063-9736-e18b308f179e&pf_rd_r=2H6HC0J5KT7ZBFYFRRRC&qid=1781639465&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=cat6a%2Caps%2C145&sr=1-2-f7d8a1b7-d68f-4a86-bfcb-111c62272989-spons&aref=TfWoMSbUuZ&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)
+
+
+
+
+
+[
