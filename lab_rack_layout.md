@@ -15,10 +15,10 @@
 14. -
 15. -
 16. -
-17. 4u ai pc
+17. 2u [ai pc](https://www.bee-link.com/products/beelink-gti15-ultra-intel-core-ultra-9-285h-openclaw-local-llm-pre-installed?variant=48946274697458) [nvr](https://store.ui.com/us/en/category/physical-security-nvr/collections/unvr-instant/products/unvr-instant)
 18. -
-19. -
-20. -
+19. 
+20. 
 21. [ups (networking and storage)](https://www.amazon.com/Tripp-Lite-Battery-Rack-Mount-SMART1500LCD/dp/B000DZRY9C/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.YBwy5m0j7dExorQewWFbCrPh1vwp9oEgEKdurBVIU_T2oVs4CBXWyCIT19owYocCuOVEX_88FWqXCX_AwtmOqEt07fnjON_NjgIQH_LY6OJZus9kUJ_ZQGZJUx9VDh0gF3KY7x6lPppXD9_sFbtHKHB2JNE1rUM_TLybVBSKSjSUFcPNctkfO7wexDvPlmYUI46Tk-bY-ioLtTAVyPFU_WknEM_Gx4fgBU0TSzmnTDg.ywJ-pqxi8wtzAO-h7zF1QY9FHcwejzgwbxpJMOZ2MR8&dib_tag=se&keywords=rack%2Bmounted%2Bups&qid=1781541115&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1))
 22. -
 23. ups (compute)
