@@ -54,6 +54,6 @@ Mpuntings
 4. self
 5. -
 6. -
-7. 
+7. [modem mount](https://www.etsy.com/listing/1885858345/surfboard-sb8200-sb6190-sb6141-cable?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=harris+surfboard+sb8200+mount&ref=sc_gallery-1-1&sr_prefetch=1&pf_from=search&sts=1&plkey=EugBdup1IZl1O146NVpESj_-S2c5%3ALT831dc35dd47443739344aa845094a295925caec8) 
 
 
