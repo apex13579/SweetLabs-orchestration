@@ -1,24 +1,24 @@
 # lab layout plan
-1. [monitor](https://www.amazon.com/gp/aw/d/B0BG72RBPX/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=d98c21a42d39d671a48d8ef1126ea2ca&hsa_cr_id=0&qid=1781716115&sr=1-1-bb1dd90d-43d9-4889-9fa3-06ff69afcca4&ref_=sbx__sbtcd2_asin_0_title&pd_rd_w=YHVFi&content-id=amzn1.sym.426cce2b-1a46-4f73-98d0-97ab3ad4ed98%3Aamzn1.sym.426cce2b-1a46-4f73-98d0-97ab3ad4ed98&pf_rd_p=426cce2b-1a46-4f73-98d0-97ab3ad4ed98&pf_rd_r=D6A60TCTBHJ7R289FGRT&pd_rd_wg=6ZnbQ&pd_rd_r=bee6c7a8-b051-4c96-a22b-b4d537b41ea6&th=1)
-2. [drawer (excess cables)](https://www.amazon.com/Ktaxon-Locking-Durable-Material-Application/dp/B0CP7GRCWH/ref=sr_1_3?crid=3R5JELSPWMWSK&dib=eyJ2IjoiMSJ9.E2j1_8GTj1ZwEX-lnbeProKO1RFpBm5FLAe8Cv9eUgIWlWTBrgieIShdxBquD2xrYvIIPE02xycEdsV9TsXy0la-aVJ1LcZcgZxABhA6dAC93jo72oRSNYbGPi-P8hINiLoIuSdHaP6rPEpmkka_XO_6Fb6-F5PbYxol7qXHpXIRhjtkNRCF7kSzumNNhv4TXxv7VWGsDIRJtIys1Sag_dn1rYGP03vINWMBazkYSzX-xwbGjCwpWq-FDEW443jMXNJNO7otgrs2rnA9TyckvKET3dl5HkdXQunDp-LP8No.4xfJwmq45g3-xjpp0E_dd9K-e6fDWuDh3bttblTKZAM&dib_tag=se&keywords=Ktaxon%2B1U%2BRack%2BMount%2BLocking%2BDrawer&qid=1781528752&s=electronics&sprefix=ktaxon%2B1u%2Brack%2Bmount%2Blocking%2Bdrawer%2Caps%2C130&sr=1-3-catcorr&th=1)
-3. [drawer (keyboard)](https://www.amazon.com/Ktaxon-Locking-Durable-Material-Application/dp/B0CP7GRCWH/ref=sr_1_3?crid=3R5JELSPWMWSK&dib=eyJ2IjoiMSJ9.E2j1_8GTj1ZwEX-lnbeProKO1RFpBm5FLAe8Cv9eUgIWlWTBrgieIShdxBquD2xrYvIIPE02xycEdsV9TsXy0la-aVJ1LcZcgZxABhA6dAC93jo72oRSNYbGPi-P8hINiLoIuSdHaP6rPEpmkka_XO_6Fb6-F5PbYxol7qXHpXIRhjtkNRCF7kSzumNNhv4TXxv7VWGsDIRJtIys1Sag_dn1rYGP03vINWMBazkYSzX-xwbGjCwpWq-FDEW443jMXNJNO7otgrs2rnA9TyckvKET3dl5HkdXQunDp-LP8No.4xfJwmq45g3-xjpp0E_dd9K-e6fDWuDh3bttblTKZAM&dib_tag=se&keywords=Ktaxon%2B1U%2BRack%2BMount%2BLocking%2BDrawer&qid=1781528752&s=electronics&sprefix=ktaxon%2B1u%2Brack%2Bmount%2Blocking%2Bdrawer%2Caps%2C130&sr=1-3-catcorr&th=1)
-4. [nas](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
+1.[fan](https://www.amazon.com/Rising-Temperature-control-Server-Cooling/dp/B07B3YH823/ref=sr_1_11?dib=eyJ2IjoiMSJ9.fGRw7eC3O0Amuerk3KjAJz4SELJF6cy9-jPMIw4oYF-cYWuQyHVl9Glt2z9fxKqv7I2U4mfEyOVfd4ZGWddN6eeiWL82TWB3Xkuuvh1cIErNxf9BufY-etq7VXVHvKmNsvlPZh0zZvCPtX3luPMxrJbvHZbhWX40CpJ69S-w9k9oPAG5bXoSHTAhkVV0JbmEzUUMSy7e7iqDGcN8HEyxLPpuFNTAiDgDwhY_tI-MpEI.rGK-CKZGZGN_rEhgIN8ITAx4ZwflvbR9RWIAnQlQb3g&dib_tag=se&keywords=1u+server+rack+fan&qid=1781798865&sr=8-11)
+2.  [monitor](https://www.amazon.com/gp/aw/d/B0BG72RBPX/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=d98c21a42d39d671a48d8ef1126ea2ca&hsa_cr_id=0&qid=1781716115&sr=1-1-bb1dd90d-43d9-4889-9fa3-06ff69afcca4&ref_=sbx__sbtcd2_asin_0_title&pd_rd_w=YHVFi&content-id=amzn1.sym.426cce2b-1a46-4f73-98d0-97ab3ad4ed98%3Aamzn1.sym.426cce2b-1a46-4f73-98d0-97ab3ad4ed98&pf_rd_p=426cce2b-1a46-4f73-98d0-97ab3ad4ed98&pf_rd_r=D6A60TCTBHJ7R289FGRT&pd_rd_wg=6ZnbQ&pd_rd_r=bee6c7a8-b051-4c96-a22b-b4d537b41ea6&th=1)
+3. [drawer (excess cables)](https://www.amazon.com/Ktaxon-Locking-Durable-Material-Application/dp/B0CP7GRCWH/ref=sr_1_3?crid=3R5JELSPWMWSK&dib=eyJ2IjoiMSJ9.E2j1_8GTj1ZwEX-lnbeProKO1RFpBm5FLAe8Cv9eUgIWlWTBrgieIShdxBquD2xrYvIIPE02xycEdsV9TsXy0la-aVJ1LcZcgZxABhA6dAC93jo72oRSNYbGPi-P8hINiLoIuSdHaP6rPEpmkka_XO_6Fb6-F5PbYxol7qXHpXIRhjtkNRCF7kSzumNNhv4TXxv7VWGsDIRJtIys1Sag_dn1rYGP03vINWMBazkYSzX-xwbGjCwpWq-FDEW443jMXNJNO7otgrs2rnA9TyckvKET3dl5HkdXQunDp-LP8No.4xfJwmq45g3-xjpp0E_dd9K-e6fDWuDh3bttblTKZAM&dib_tag=se&keywords=Ktaxon%2B1U%2BRack%2BMount%2BLocking%2BDrawer&qid=1781528752&s=electronics&sprefix=ktaxon%2B1u%2Brack%2Bmount%2Blocking%2Bdrawer%2Caps%2C130&sr=1-3-catcorr&th=1)
+4. [drawer (keyboard)](https://www.amazon.com/Ktaxon-Locking-Durable-Material-Application/dp/B0CP7GRCWH/ref=sr_1_3?crid=3R5JELSPWMWSK&dib=eyJ2IjoiMSJ9.E2j1_8GTj1ZwEX-lnbeProKO1RFpBm5FLAe8Cv9eUgIWlWTBrgieIShdxBquD2xrYvIIPE02xycEdsV9TsXy0la-aVJ1LcZcgZxABhA6dAC93jo72oRSNYbGPi-P8hINiLoIuSdHaP6rPEpmkka_XO_6Fb6-F5PbYxol7qXHpXIRhjtkNRCF7kSzumNNhv4TXxv7VWGsDIRJtIys1Sag_dn1rYGP03vINWMBazkYSzX-xwbGjCwpWq-FDEW443jMXNJNO7otgrs2rnA9TyckvKET3dl5HkdXQunDp-LP8No.4xfJwmq45g3-xjpp0E_dd9K-e6fDWuDh3bttblTKZAM&dib_tag=se&keywords=Ktaxon%2B1U%2BRack%2BMount%2BLocking%2BDrawer&qid=1781528752&s=electronics&sprefix=ktaxon%2B1u%2Brack%2Bmount%2Blocking%2Bdrawer%2Caps%2C130&sr=1-3-catcorr&th=1)
 5. [nas](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
-6. [modem](https://www.amazon.com/ARRIS-SURFboard-Approved-SB8200-Frustration/dp/B07DY16W2Z/ref=sr_1_1?crid=145CT6EA05ILA&dib=eyJ2IjoiMSJ9.-GRyifJmwzofu7GGMNBk-xzXWcpUg_Rr5xIxXLU2Bgo3NPHwo0sj_QGjCGD9Mr8sXNZczqUoGIS6OCsOq35WQopqrXJDg5CNdDZQ8_5dVwYlD_FfdWiIbqDScerbcWcqMWk0gxKofJWgS1iSiHGifW2ihUaQbSJCJ0VmCxNIeavg31ZA5rQUhHAjyBuKaZK9HVW3oLPo5syvMvJQOEakz8uLdXzlJSWiGfUHu1VN1LE.hF47knJl9-G-E65bQeL4Pa8TXk8lrrYAu_D39yIPinI&dib_tag=se&keywords=ARRIS%2BSURFboard%2BSB8200&qid=1781530009&sprefix=arris%2Bsurfboard%2Bsb8200%2Caps%2C125&sr=8-1&th=1)
-7. [gateway](https://store.ui.com/us/en/category/cloud-gateways-compact/collections/cloud-gateway-max)
-8. [patch panel](https://www.amazon.com/Monoprice-Keystone-Jack-Panel-ports/dp/B005E2YCNA/ref=sr_1_1?crid=IV31VGIFXMQ&dib=eyJ2IjoiMSJ9.dazJGiiCvviBzk6n2pi9iJ0mM6cAT7cUwajZIU9dRoPy0pJ5IoQ-uaUz0MfJqOwzK8JvQTIchslv6q2GSOLZt08ta3Fmw7jaSj72eNJwXwGz7noQMxrtV0J7nOr9AiM8ngpie-QFpvr6cK926onCo8ANy4VL0KenswecGaFtq4ac346SdqWiiEvE9_CaFkiLcrzVTY-DdGBpd5z4i2Qga4_fI2FDQeedIQfSCbozf60.mWSJg5Z5tfFVXHTxGyeai81Lvfnu3FDLCk4ITRcZNdE&dib_tag=se&keywords=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel&qid=1781537101&sprefix=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel%2Caps%2C133&sr=8-1&th=1)
-9. [aggregation switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-16)
-10. [vm pc](https://www.amazon.com/HP-Mini-800-G9-i9-12900T/dp/B0BSGLPD9P)  
-11. 2u [ai pc](https://www.bee-link.com/products/beelink-gti15-ultra-intel-core-ultra-9-285h-openclaw-local-llm-pre-installed?variant=48946274697458) [nvr](https://store.ui.com/us/en/category/physical-security-nvr/collections/unvr-instant/products/unvr-instant)
-12. continued
-13. 
+6. [nas](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
+7. [modem](https://www.amazon.com/ARRIS-SURFboard-Approved-SB8200-Frustration/dp/B07DY16W2Z/ref=sr_1_1?crid=145CT6EA05ILA&dib=eyJ2IjoiMSJ9.-GRyifJmwzofu7GGMNBk-xzXWcpUg_Rr5xIxXLU2Bgo3NPHwo0sj_QGjCGD9Mr8sXNZczqUoGIS6OCsOq35WQopqrXJDg5CNdDZQ8_5dVwYlD_FfdWiIbqDScerbcWcqMWk0gxKofJWgS1iSiHGifW2ihUaQbSJCJ0VmCxNIeavg31ZA5rQUhHAjyBuKaZK9HVW3oLPo5syvMvJQOEakz8uLdXzlJSWiGfUHu1VN1LE.hF47knJl9-G-E65bQeL4Pa8TXk8lrrYAu_D39yIPinI&dib_tag=se&keywords=ARRIS%2BSURFboard%2BSB8200&qid=1781530009&sprefix=arris%2Bsurfboard%2Bsb8200%2Caps%2C125&sr=8-1&th=1)
+8. [gateway](https://store.ui.com/us/en/category/cloud-gateways-compact/collections/cloud-gateway-max)
+9. [patch panel](https://www.amazon.com/Monoprice-Keystone-Jack-Panel-ports/dp/B005E2YCNA/ref=sr_1_1?crid=IV31VGIFXMQ&dib=eyJ2IjoiMSJ9.dazJGiiCvviBzk6n2pi9iJ0mM6cAT7cUwajZIU9dRoPy0pJ5IoQ-uaUz0MfJqOwzK8JvQTIchslv6q2GSOLZt08ta3Fmw7jaSj72eNJwXwGz7noQMxrtV0J7nOr9AiM8ngpie-QFpvr6cK926onCo8ANy4VL0KenswecGaFtq4ac346SdqWiiEvE9_CaFkiLcrzVTY-DdGBpd5z4i2Qga4_fI2FDQeedIQfSCbozf60.mWSJg5Z5tfFVXHTxGyeai81Lvfnu3FDLCk4ITRcZNdE&dib_tag=se&keywords=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel&qid=1781537101&sprefix=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel%2Caps%2C133&sr=8-1&th=1)
+10. [aggregation switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-16)
+11. [vm pc](https://www.amazon.com/HP-Mini-800-G9-i9-12900T/dp/B0BSGLPD9P)  
+12. 2u [ai pc](https://www.bee-link.com/products/beelink-gti15-ultra-intel-core-ultra-9-285h-openclaw-local-llm-pre-installed?variant=48946274697458) [nvr](https://store.ui.com/us/en/category/physical-security-nvr/collections/unvr-instant/products/unvr-instant)
+13. continued
 14. 
-15.  
-16.   
-17.    
-18. 
+15. 
+16.  
+17.   
+18.    
 19. 
-20. 
+20.  
 21. [ups (networking and storage)](https://www.amazon.com/Tripp-Lite-Battery-Rack-Mount-SMART1500LCD/dp/B000DZRY9C/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.YBwy5m0j7dExorQewWFbCrPh1vwp9oEgEKdurBVIU_T2oVs4CBXWyCIT19owYocCuOVEX_88FWqXCX_AwtmOqEt07fnjON_NjgIQH_LY6OJZus9kUJ_ZQGZJUx9VDh0gF3KY7x6lPppXD9_sFbtHKHB2JNE1rUM_TLybVBSKSjSUFcPNctkfO7wexDvPlmYUI46Tk-bY-ioLtTAVyPFU_WknEM_Gx4fgBU0TSzmnTDg.ywJ-pqxi8wtzAO-h7zF1QY9FHcwejzgwbxpJMOZ2MR8&dib_tag=se&keywords=rack%2Bmounted%2Bups&qid=1781541115&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1))
 22. continued
 23. ups (compute)
@@ -53,14 +53,14 @@ Mpuntings
 3. self
 4. self
 5. self
-6. [modem mount](https://www.etsy.com/listing/1885858345/surfboard-sb8200-sb6190-sb6141-cable?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=harris+surfboard+sb8200+mount&ref=sc_gallery-1-1&sr_prefetch=1&pf_from=search&sts=1&plkey=EugBdup1IZl1O146NVpESj_-S2c5%3ALT831dc35dd47443739344aa845094a295925caec8)
-7. [gateway mount](https://www.etsy.com/listing/1686419393/unifi-cloud-gateway-ultra-gateway-max-or?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cloud+gateway+max&ref=sr_gallery-1-1&sr_prefetch=1&pf_from=search&frs=1&sts=1&content_source=f63cd6f8-79a5-4e7a-8327-d2ac6d801a2b%253ALTfa95cd4ce0ba89f6a5539d9c76262b1a19761d6b&organic_search_click=1&logging_key=f63cd6f8-79a5-4e7a-8327-d2ac6d801a2b%3ALTfa95cd4ce0ba89f6a5539d9c76262b1a19761d6b&variation1=6418656311)
-8. self
+6. self
+7. [modem mount](https://www.etsy.com/listing/1885858345/surfboard-sb8200-sb6190-sb6141-cable?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=harris+surfboard+sb8200+mount&ref=sc_gallery-1-1&sr_prefetch=1&pf_from=search&sts=1&plkey=EugBdup1IZl1O146NVpESj_-S2c5%3ALT831dc35dd47443739344aa845094a295925caec8)
+8. [gateway mount](https://www.etsy.com/listing/1686419393/unifi-cloud-gateway-ultra-gateway-max-or?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=cloud+gateway+max&ref=sr_gallery-1-1&sr_prefetch=1&pf_from=search&frs=1&sts=1&content_source=f63cd6f8-79a5-4e7a-8327-d2ac6d801a2b%253ALTfa95cd4ce0ba89f6a5539d9c76262b1a19761d6b&organic_search_click=1&logging_key=f63cd6f8-79a5-4e7a-8327-d2ac6d801a2b%3ALTfa95cd4ce0ba89f6a5539d9c76262b1a19761d6b&variation1=6418656311)
 9. self
-10. [vm pc mount](https://www.etsy.com/listing/4438556009/1u-19-inch-rack-mount-bracket-for-hp?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=hp+elite+desk+800+g9&ref=sr_gallery-1-3&sr_prefetch=1&pf_from=search&sts=1&content_source=ec4a90c0-a74e-40b9-8ade-91990a1d2b03%253ALTff63dd1ecfcf4064b7db0593914c58ba6725974a&organic_search_click=1&logging_key=ec4a90c0-a74e-40b9-8ade-91990a1d2b03%3ALTff63dd1ecfcf4064b7db0593914c58ba6725974a)
-11. [shelf](https://www.amazon.com/Beiyier-Equipment-Ventilated-Cantilever-Well-Ventilated/dp/B0CNXFP28B/ref=sr_1_132?crid=1YT5PIEHWT98&dib=eyJ2IjoiMSJ9.Jy1kT0PO8xLPqeQvmLrIsYC-IL06op5uL2gYG-aFy2tNUfFaZ6XucPv0JoqbRsDKJxfsUn0KDUPliLYb9_dZkg.84RvnLMiq5gkA0SyB3MkZ1IuJ0h0WUfJm5X1udGklog&dib_tag=se&keywords=server%2Brack%2Bshelf&qid=1781797974&sprefix=server%2Brack%2Bshelf%2Caps%2C127&xpid=FY5Cu2NEXRhA2&th=1
-12. continued
-13. -
+10. self
+11. [vm pc mount](https://www.etsy.com/listing/4438556009/1u-19-inch-rack-mount-bracket-for-hp?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=hp+elite+desk+800+g9&ref=sr_gallery-1-3&sr_prefetch=1&pf_from=search&sts=1&content_source=ec4a90c0-a74e-40b9-8ade-91990a1d2b03%253ALTff63dd1ecfcf4064b7db0593914c58ba6725974a&organic_search_click=1&logging_key=ec4a90c0-a74e-40b9-8ade-91990a1d2b03%3ALTff63dd1ecfcf4064b7db0593914c58ba6725974a)
+12. [shelf](https://www.amazon.com/Beiyier-Equipment-Ventilated-Cantilever-Well-Ventilated/dp/B0CNXFP28B/ref=sr_1_132?crid=1YT5PIEHWT98&dib=eyJ2IjoiMSJ9.Jy1kT0PO8xLPqeQvmLrIsYC-IL06op5uL2gYG-aFy2tNUfFaZ6XucPv0JoqbRsDKJxfsUn0KDUPliLYb9_dZkg.84RvnLMiq5gkA0SyB3MkZ1IuJ0h0WUfJm5X1udGklog&dib_tag=se&keywords=server%2Brack%2Bshelf&qid=1781797974&sprefix=server%2Brack%2Bshelf%2Caps%2C127&xpid=FY5Cu2NEXRhA2&th=1
+13. continued
 14. -
 15. -
 16. -
