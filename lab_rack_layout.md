@@ -59,7 +59,7 @@ Mpuntings
 9. self
 10. self
 11. [vm pc mount](https://www.etsy.com/listing/4438556009/1u-19-inch-rack-mount-bracket-for-hp?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=hp+elite+desk+800+g9&ref=sr_gallery-1-3&sr_prefetch=1&pf_from=search&sts=1&content_source=ec4a90c0-a74e-40b9-8ade-91990a1d2b03%253ALTff63dd1ecfcf4064b7db0593914c58ba6725974a&organic_search_click=1&logging_key=ec4a90c0-a74e-40b9-8ade-91990a1d2b03%3ALTff63dd1ecfcf4064b7db0593914c58ba6725974a)
-12. [stand](https://www.amazon.com/Beiyier-Equipment-Ventilated-Cantilever-Well-Ventilated/dp/B0CNXFP28B/ref=sr_1_132?crid=1YT5PIEHWT98&dib=eyJ2IjoiMSJ9.Jy1kT0PO8xLPqeQvmLrIsYC-IL06op5uL2gYG-aFy2tNUfFaZ6XucPv0JoqbRsDKJxfsUn0KDUPliLYb9_dZkg.84RvnLMiq5gkA0SyB3MkZ1IuJ0h0WUfJm5X1udGklog&dib_tag=se&keywords=server%2Brack%2Bshelf&qid=1781797974&sprefix=server%2Brack%2Bshelf%2Caps%2C127&xpid=FY5Cu2NEXRhA2&th=1
+12. [shelf](https://www.amazon.com/Beiyier-Equipment-Ventilated-Cantilever-Well-Ventilated/dp/B0CNXFP28B/ref=sr_1_132?crid=1YT5PIEHWT98&dib=eyJ2IjoiMSJ9.Jy1kT0PO8xLPqeQvmLrIsYC-IL06op5uL2gYG-aFy2tNUfFaZ6XucPv0JoqbRsDKJxfsUn0KDUPliLYb9_dZkg.84RvnLMiq5gkA0SyB3MkZ1IuJ0h0WUfJm5X1udGklog&dib_tag=se&keywords=server%2Brack%2Bshelf&qid=1781797974&sprefix=server%2Brack%2Bshelf%2Caps%2C127&xpid=FY5Cu2NEXRhA2&th=1
 13. continued
 14. -
 15. -
