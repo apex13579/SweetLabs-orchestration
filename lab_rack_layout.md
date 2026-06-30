@@ -8,7 +8,7 @@
 7. [nas](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
 8. blank
 9. [modem](https://www.amazon.com/ARRIS-SURFboard-Approved-SB8200-Frustration/dp/B07DY16W2Z/ref=sr_1_1?crid=145CT6EA05ILA&dib=eyJ2IjoiMSJ9.-GRyifJmwzofu7GGMNBk-xzXWcpUg_Rr5xIxXLU2Bgo3NPHwo0sj_QGjCGD9Mr8sXNZczqUoGIS6OCsOq35WQopqrXJDg5CNdDZQ8_5dVwYlD_FfdWiIbqDScerbcWcqMWk0gxKofJWgS1iSiHGifW2ihUaQbSJCJ0VmCxNIeavg31ZA5rQUhHAjyBuKaZK9HVW3oLPo5syvMvJQOEakz8uLdXzlJSWiGfUHu1VN1LE.hF47knJl9-G-E65bQeL4Pa8TXk8lrrYAu_D39yIPinI&dib_tag=se&keywords=ARRIS%2BSURFboard%2BSB8200&qid=1781530009&sprefix=arris%2Bsurfboard%2Bsb8200%2Caps%2C125&sr=8-1&th=1)
-10. [gateway](https://store.ui.com/us/en/category/cloud-gateways-wifi-integrated/products/ux7)
+10. [gateway](https://store.ui.com/us/en/category/cloud-gateways-compact/collections/cloud-gateway-max)
 11. blank
 12. [patch panel](https://www.amazon.com/Monoprice-Keystone-Jack-Panel-ports/dp/B005E2YCNA/ref=sr_1_1?crid=IV31VGIFXMQ&dib=eyJ2IjoiMSJ9.dazJGiiCvviBzk6n2pi9iJ0mM6cAT7cUwajZIU9dRoPy0pJ5IoQ-uaUz0MfJqOwzK8JvQTIchslv6q2GSOLZt08ta3Fmw7jaSj72eNJwXwGz7noQMxrtV0J7nOr9AiM8ngpie-QFpvr6cK926onCo8ANy4VL0KenswecGaFtq4ac346SdqWiiEvE9_CaFkiLcrzVTY-DdGBpd5z4i2Qga4_fI2FDQeedIQfSCbozf60.mWSJg5Z5tfFVXHTxGyeai81Lvfnu3FDLCk4ITRcZNdE&dib_tag=se&keywords=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel&qid=1781537101&sprefix=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel%2Caps%2C133&sr=8-1&th=1)
 13. [aggregation switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-16)
